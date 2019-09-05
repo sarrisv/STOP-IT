@@ -11,6 +11,9 @@ var go_stim1 = 'images/go_left.png';
 var go_stim2 = 'images/go_right.png';
 var stop_stim1 = 'images/stop_left.png';
 var stop_stim2 = 'images/stop_right.png';
+var left_key = 'images/left_key.png';
+var right_key = 'images/right_key.png';
+
 
 
 // define the appropriate response (key) for each stimulus
